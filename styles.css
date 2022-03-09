@@ -61,3 +61,14 @@ img {
   grid-column: 1 / -1;
   position: relative;
 }
+
+.hero-title {
+  text-align: center;
+  color: orangered;
+  font-size: 8rem;
+}
+.hero-subtitle {
+  font-size: 2.4rem;
+  text-align: center;
+  color: orangered;
+}
